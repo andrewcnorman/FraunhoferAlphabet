@@ -1,0 +1,7 @@
+.ipynb*
+*~
+*~
+*.aux
+*.log
+*.out
+*.sty
